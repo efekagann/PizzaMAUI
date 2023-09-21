@@ -553,3 +553,4 @@ C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-io
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\PizzaMAUI.pdb
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\PizzaMAUI.genruntimeconfig.cache
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\ref\PizzaMAUI.dll
+C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\build-signature\signature

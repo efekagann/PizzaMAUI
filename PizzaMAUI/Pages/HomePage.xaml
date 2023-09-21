@@ -4,9 +4,33 @@
              x:Class="PizzaMAUI.Pages.HomePage"
              Title="Kopernik Pizza">
 
-    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
-        <Label Text="Kopernik Pizza" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+
+    <ScrollView>
+        <VerticalStackLayout>
+            <Border StrokeShape="RoundRectangle 10"
+                    StrokeThickness="0"
+                    BackgroundColor="Goldenrod"
+                    VerticalOptions="Start"
+                    Padding="15">
+                
+                <Grid ColumnDefinitions="*,150"
+                      RowDefinitions="*,Auto">
+
+                    <VerticalStackLayout Grid.Column="0"
+                                         Grid.Row="0">
+                        
+                    </VerticalStackLayout>
+
+                    <Image Grid.RowSpan="2"
+                           Grid.Column="1"
+                           Source="pizza3.png"
+                           HeightRequest="150"                           
+                           WidthRequest="150"></Image>
+                </Grid>
+                
+            </Border>
+        </VerticalStackLayout>
+    </ScrollView>
 
 
 
