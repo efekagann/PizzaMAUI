@@ -20,6 +20,17 @@ public static class MauiProgram
         builder.Logging.AddDebug();
 #endif
 
+        AddPizzaServices(builder.Services);
+
         return builder.Build();
     }
+
+    private static IServiceCollection AddPizzaServices(IServiceCollection services)
+    {
+        services.AddSingleton<PizzaService>();
+        services.AddSingletonWithShellRoute<HomePage, HomeViewModel>(nameof(HomePage));
+
+        return services;
+    }
+
 }

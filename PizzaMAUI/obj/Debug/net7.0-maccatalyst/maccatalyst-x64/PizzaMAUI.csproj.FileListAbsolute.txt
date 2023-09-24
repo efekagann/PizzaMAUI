@@ -502,10 +502,10 @@ C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ma
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot.png
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@2x.png
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\dotnet_bot@3x.png
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\pizza1.png
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\pizza2.png
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\pizza3.png
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\pizza4.png
+C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\pizza1img.png
+C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\pizza2img.png
+C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\pizza3img.png
+C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\pizza4img.png
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\r\Resources\rightarrow.png
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\mauiimage.stamp
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-maccatalyst\maccatalyst-x64\resizetizer\f\MauiInfo.plist

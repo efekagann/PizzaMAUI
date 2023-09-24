@@ -10812,10 +10812,10 @@ public final class R {
     public static final int notification_template_icon_low_bg=0x7f0700cd;
     public static final int notification_tile_bg=0x7f0700ce;
     public static final int notify_panel_notification_icon_bg=0x7f0700cf;
-    public static final int pizza1=0x7f0700d0;
-    public static final int pizza2=0x7f0700d1;
-    public static final int pizza3=0x7f0700d2;
-    public static final int pizza4=0x7f0700d3;
+    public static final int pizza1img=0x7f0700d0;
+    public static final int pizza2img=0x7f0700d1;
+    public static final int pizza3img=0x7f0700d2;
+    public static final int pizza4img=0x7f0700d3;
     public static final int rightarrow=0x7f0700d4;
     public static final int splash=0x7f0700d5;
     public static final int test_level_drawable=0x7f0700d6;

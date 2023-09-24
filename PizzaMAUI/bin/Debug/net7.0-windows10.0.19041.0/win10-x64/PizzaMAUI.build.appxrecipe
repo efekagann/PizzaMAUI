@@ -889,17 +889,17 @@
     <AppxPackagedFile Include="C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pizza1.scale-100.png">
-      <PackagePath>pizza1.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pizza1img.scale-100.png">
+      <PackagePath>pizza1img.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pizza2.scale-100.png">
-      <PackagePath>pizza2.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pizza2img.scale-100.png">
+      <PackagePath>pizza2img.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pizza3.scale-100.png">
-      <PackagePath>pizza3.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pizza3img.scale-100.png">
+      <PackagePath>pizza3img.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pizza4.scale-100.png">
-      <PackagePath>pizza4.scale-100.png</PackagePath>
+    <AppxPackagedFile Include="C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\pizza4img.scale-100.png">
+      <PackagePath>pizza4img.scale-100.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\resizetizer\r\rightarrow.scale-100.png">
       <PackagePath>rightarrow.scale-100.png</PackagePath>

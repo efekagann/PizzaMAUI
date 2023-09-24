@@ -21663,16 +21663,16 @@ namespace PizzaMAUI
 			public const int notify_panel_notification_icon_bg = 2131165391;
 			
 			// aapt resource value: 0x7F0700D0
-			public const int pizza1 = 2131165392;
+			public const int pizza1img = 2131165392;
 			
 			// aapt resource value: 0x7F0700D1
-			public const int pizza2 = 2131165393;
+			public const int pizza2img = 2131165393;
 			
 			// aapt resource value: 0x7F0700D2
-			public const int pizza3 = 2131165394;
+			public const int pizza3img = 2131165394;
 			
 			// aapt resource value: 0x7F0700D3
-			public const int pizza4 = 2131165395;
+			public const int pizza4img = 2131165395;
 			
 			// aapt resource value: 0x7F0700D4
 			public const int rightarrow = 2131165396;

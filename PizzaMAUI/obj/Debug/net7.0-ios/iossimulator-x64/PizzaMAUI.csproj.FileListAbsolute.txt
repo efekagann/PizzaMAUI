@@ -483,13 +483,10 @@ C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-io
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libicuuc.a
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-static.a
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger-stub-static.a
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-debugger.dylib
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-static.a
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing-stub-static.a
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-diagnostics_tracing.dylib
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-static.a
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload-stub-static.a
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmono-component-hot_reload.dylib
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.a
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\libmonosgen-2.0.dylib
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.iOS.registrar.a
@@ -518,10 +515,6 @@ C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-io
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@3x.png
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\pizza1.png
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\pizza2.png
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\pizza3.png
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\pizza4.png
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\rightarrow.png
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash.png
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\splash@2x.png
@@ -554,3 +547,7 @@ C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-io
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\PizzaMAUI.genruntimeconfig.cache
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\ref\PizzaMAUI.dll
 C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\build-signature\signature
+C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\pizza1img.png
+C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\pizza2img.png
+C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\pizza3img.png
+C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-ios\iossimulator-x64\resizetizer\r\Resources\pizza4img.png
