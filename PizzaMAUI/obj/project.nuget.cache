@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zeZYTNpnUAIROgP+hmmAameOCVAbKvWsv8UBrsHZDRbq26E6Gx6bbHLg9sk47otF/rhk7IG+pQCfTeEgfgGgNw==",
+  "dgSpecHash": "tr8dS+bVOAH3ECj9J3K1S582tDSNmQAJXlpd24qHEaNEyUx5W1km/GQozD8Joiu1pUh7bZrywgsFIz5u4JaqRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\efeka\\Documents\\GitHub\\MauiApp1\\PizzaMAUI\\PizzaMAUI\\PizzaMAUI.csproj",
+  "projectFilePath": "C:\\Users\\efeka\\Documents\\GitHub\\PizzaMAUI\\PizzaMAUI\\PizzaMAUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\efeka\\.nuget\\packages\\communitytoolkit.maui\\5.3.0\\communitytoolkit.maui.5.3.0.nupkg.sha512",
     "C:\\Users\\efeka\\.nuget\\packages\\communitytoolkit.maui.core\\5.3.0\\communitytoolkit.maui.core.5.3.0.nupkg.sha512",

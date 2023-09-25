@@ -25741,11 +25741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\efeka\\Documents\\GitHub\\MauiApp1\\PizzaMAUI\\PizzaMAUI\\PizzaMAUI.csproj",
+      "projectUniqueName": "C:\\Users\\efeka\\Documents\\GitHub\\PizzaMAUI\\PizzaMAUI\\PizzaMAUI.csproj",
       "projectName": "PizzaMAUI",
-      "projectPath": "C:\\Users\\efeka\\Documents\\GitHub\\MauiApp1\\PizzaMAUI\\PizzaMAUI\\PizzaMAUI.csproj",
+      "projectPath": "C:\\Users\\efeka\\Documents\\GitHub\\PizzaMAUI\\PizzaMAUI\\PizzaMAUI.csproj",
       "packagesPath": "C:\\Users\\efeka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\efeka\\Documents\\GitHub\\MauiApp1\\PizzaMAUI\\PizzaMAUI\\obj\\",
+      "outputPath": "C:\\Users\\efeka\\Documents\\GitHub\\PizzaMAUI\\PizzaMAUI\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

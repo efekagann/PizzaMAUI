@@ -10,6 +10,31 @@
         <member name="P:PizzaMAUI.Models.Pizza.CardQuantity">
             <inheritdoc cref="F:PizzaMAUI.Models.Pizza._cardQuantity"/>
         </member>
+        <member name="T:PizzaMAUI.ViewModels.AllPizzaViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:PizzaMAUI.ViewModels.AllPizzaViewModel.FromShearch">
+            <inheritdoc cref="F:PizzaMAUI.ViewModels.AllPizzaViewModel._fromShearch"/>
+        </member>
+        <member name="P:PizzaMAUI.ViewModels.AllPizzaViewModel.Searching">
+            <inheritdoc cref="F:PizzaMAUI.ViewModels.AllPizzaViewModel._searching"/>
+        </member>
+        <member name="F:PizzaMAUI.ViewModels.AllPizzaViewModel.shearchPizzasCommand">
+            <summary>The backing field for <see cref="P:PizzaMAUI.ViewModels.AllPizzaViewModel.ShearchPizzasCommand"/>.</summary>
+        </member>
+        <member name="P:PizzaMAUI.ViewModels.AllPizzaViewModel.ShearchPizzasCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:PizzaMAUI.ViewModels.AllPizzaViewModel.ShearchPizzas(System.String)"/>.</summary>
+        </member>
+        <member name="T:PizzaMAUI.ViewModels.HomeViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="F:PizzaMAUI.ViewModels.HomeViewModel.goToAllPizzasPageCommand">
+            <summary>The backing field for <see cref="P:PizzaMAUI.ViewModels.HomeViewModel.GoToAllPizzasPageCommand"/>.</summary>
+        </member>
+        <member name="P:PizzaMAUI.ViewModels.HomeViewModel.GoToAllPizzasPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:PizzaMAUI.ViewModels.HomeViewModel.GoToAllPizzasPage(System.Boolean)"/>.</summary>
+        </member>
         <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Button.TextColorTo(Microsoft.Maui.Controls.Button,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
             <summary>
             Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color
@@ -118,6 +143,12 @@
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.CardQuantity">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "CardQuantity" generated properties.</summary>
         </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.FromShearch">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "FromShearch" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Searching">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Searching" generated properties.</summary>
+        </member>
         <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
             <summary>
             A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
@@ -129,6 +160,12 @@
         </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Amount">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Amount" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.FromShearch">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "FromShearch" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Searching">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Searching" generated properties.</summary>
         </member>
     </members>
 </doc>

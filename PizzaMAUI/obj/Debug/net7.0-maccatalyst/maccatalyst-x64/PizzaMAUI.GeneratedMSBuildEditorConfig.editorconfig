@@ -8,39 +8,45 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PizzaMAUI
-build_property.ProjectDir = C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\
+build_property.ProjectDir = C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\
 
-[C:/Users/efeka/Documents/GitHub/MauiApp1/PizzaMAUI/PizzaMAUI/App.xaml]
+[C:/Users/efeka/Documents/GitHub/PizzaMAUI/PizzaMAUI/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PizzaMAUI.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/efeka/Documents/GitHub/MauiApp1/PizzaMAUI/PizzaMAUI/AppShell.xaml]
+[C:/Users/efeka/Documents/GitHub/PizzaMAUI/PizzaMAUI/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PizzaMAUI.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/efeka/Documents/GitHub/MauiApp1/PizzaMAUI/PizzaMAUI/Pages/HomePage.xaml]
+[C:/Users/efeka/Documents/GitHub/PizzaMAUI/PizzaMAUI/Pages/AllPizzasPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PizzaMAUI.Pages.AllPizzasPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AllPizzasPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AllPizzasPage.xaml
+
+[C:/Users/efeka/Documents/GitHub/PizzaMAUI/PizzaMAUI/Pages/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PizzaMAUI.Pages.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
 
-[C:/Users/efeka/Documents/GitHub/MauiApp1/PizzaMAUI/PizzaMAUI/Pages/MainPage.xaml]
+[C:/Users/efeka/Documents/GitHub/PizzaMAUI/PizzaMAUI/Pages/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PizzaMAUI.Pages.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
 
-[C:/Users/efeka/Documents/GitHub/MauiApp1/PizzaMAUI/PizzaMAUI/Resources/Styles/Colors.xaml]
+[C:/Users/efeka/Documents/GitHub/PizzaMAUI/PizzaMAUI/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PizzaMAUI.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/efeka/Documents/GitHub/MauiApp1/PizzaMAUI/PizzaMAUI/Resources/Styles/Styles.xaml]
+[C:/Users/efeka/Documents/GitHub/PizzaMAUI/PizzaMAUI/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PizzaMAUI.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

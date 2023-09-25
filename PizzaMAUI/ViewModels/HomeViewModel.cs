@@ -11,5 +11,15 @@ public partial class HomeViewModel : ObservableObject
 
     public ObservableCollection<Pizza> Pizzas { get; set; }
 
+    [RelayCommand]
+    private async Task GoToAllPizzasPage(bool fromSearch = false)
+    {
+        var parameters = new Dictionary<string, object>
+        {
+            [nameof(AllPizzaViewModel.FromShearch)] = fromSearch
+        };
+        await Shell.Current.GoToAsync(nameof(AllPizzasPage), animate: true, parameters);
+    }
+
 
 }

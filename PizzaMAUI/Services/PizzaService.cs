@@ -34,11 +34,11 @@ public class PizzaService
 
     public IEnumerable<Pizza> GetAllPizzas() => _pizzas;
 
-    public IEnumerable<Pizza> GetPopularPizzas(int count = 4) =>
+    public IEnumerable<Pizza> GetPopularPizzas(int count = 8) =>
         _pizzas.OrderBy(P => Guid.NewGuid())
         .Take(count);
 
-    public IEnumerable<Pizza> GetPizzas(string shearchTerm) =>
+    public IEnumerable<Pizza> SearchPizzas(string shearchTerm) =>
         string.IsNullOrWhiteSpace(shearchTerm)
         ? _pizzas
         : _pizzas.Where(p => p.Name.Contains(shearchTerm, StringComparison.OrdinalIgnoreCase));

@@ -10,11 +10,13 @@
     <ShellContent
         Title=""
         ContentTemplate="{DataTemplate pages:MainPage}"
-        Route="MainPage" />
+        Route="MainPage" 
+        Shell.NavBarIsVisible="True"/>
 
     <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate pages:HomePage}"
-        Route="HomePage" />
+        Route="HomePage"
+        Shell.NavBarIsVisible="True"/>
 
 </Shell>
