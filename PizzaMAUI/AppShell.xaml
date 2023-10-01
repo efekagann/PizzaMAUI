@@ -3,9 +3,16 @@
     x:Class="PizzaMAUI.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:toolkit="http://schemas.microsoft.com/dotnet/2022/maui/toolkit"
     xmlns:pages="clr-namespace:PizzaMAUI.Pages"
     Shell.FlyoutBehavior="Disabled"
     Shell.BackgroundColor="DarkGoldenrod">
+
+    <!--Burası en yukarıdaki barın rengini değiştirir-->
+    <Shell.Behaviors>
+        <toolkit:StatusBarBehavior StatusBarColor="DarkGoldenrod"
+                                   StatusBarStyle="LightContent"/>
+    </Shell.Behaviors>
 
     <ShellContent
         Title=""

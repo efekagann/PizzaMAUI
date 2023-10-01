@@ -32,6 +32,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = PizzaMAUI.Pages.AllPizzasP
 build_metadata.AdditionalFiles.TargetPath = Pages\AllPizzasPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\AllPizzasPage.xaml
 
+[C:/Users/efeka/Documents/GitHub/PizzaMAUI/PizzaMAUI/Pages/DetailPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = PizzaMAUI.Pages.DetailPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\DetailPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\DetailPage.xaml
+
 [C:/Users/efeka/Documents/GitHub/PizzaMAUI/PizzaMAUI/Pages/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = PizzaMAUI.Pages.HomePage.xaml

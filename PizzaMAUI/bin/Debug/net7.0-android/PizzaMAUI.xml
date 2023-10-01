@@ -13,6 +13,7 @@
         <member name="T:PizzaMAUI.ViewModels.AllPizzaViewModel">
             <inheritdoc/>
             <inheritdoc/>
+            <inheritdoc/>
         </member>
         <member name="P:PizzaMAUI.ViewModels.AllPizzaViewModel.FromShearch">
             <inheritdoc cref="F:PizzaMAUI.ViewModels.AllPizzaViewModel._fromShearch"/>
@@ -20,13 +21,26 @@
         <member name="P:PizzaMAUI.ViewModels.AllPizzaViewModel.Searching">
             <inheritdoc cref="F:PizzaMAUI.ViewModels.AllPizzaViewModel._searching"/>
         </member>
-        <member name="F:PizzaMAUI.ViewModels.AllPizzaViewModel.shearchPizzasCommand">
-            <summary>The backing field for <see cref="P:PizzaMAUI.ViewModels.AllPizzaViewModel.ShearchPizzasCommand"/>.</summary>
+        <member name="F:PizzaMAUI.ViewModels.AllPizzaViewModel.searchPizzasCommand">
+            <summary>The backing field for <see cref="P:PizzaMAUI.ViewModels.AllPizzaViewModel.SearchPizzasCommand"/>.</summary>
         </member>
-        <member name="P:PizzaMAUI.ViewModels.AllPizzaViewModel.ShearchPizzasCommand">
-            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:PizzaMAUI.ViewModels.AllPizzaViewModel.ShearchPizzas(System.String)"/>.</summary>
+        <member name="P:PizzaMAUI.ViewModels.AllPizzaViewModel.SearchPizzasCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:PizzaMAUI.ViewModels.AllPizzaViewModel.SearchPizzas(System.String)"/>.</summary>
+        </member>
+        <member name="F:PizzaMAUI.ViewModels.AllPizzaViewModel.goToDetailsPageCommand">
+            <summary>The backing field for <see cref="P:PizzaMAUI.ViewModels.AllPizzaViewModel.GoToDetailsPageCommand"/>.</summary>
+        </member>
+        <member name="P:PizzaMAUI.ViewModels.AllPizzaViewModel.GoToDetailsPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:PizzaMAUI.ViewModels.AllPizzaViewModel.GoToDetailsPage(PizzaMAUI.Models.Pizza)"/>.</summary>
+        </member>
+        <member name="T:PizzaMAUI.ViewModels.DetailsViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:PizzaMAUI.ViewModels.DetailsViewModel.Pizza">
+            <inheritdoc cref="F:PizzaMAUI.ViewModels.DetailsViewModel._pizza"/>
         </member>
         <member name="T:PizzaMAUI.ViewModels.HomeViewModel">
+            <inheritdoc/>
             <inheritdoc/>
         </member>
         <member name="F:PizzaMAUI.ViewModels.HomeViewModel.goToAllPizzasPageCommand">
@@ -34,6 +48,12 @@
         </member>
         <member name="P:PizzaMAUI.ViewModels.HomeViewModel.GoToAllPizzasPageCommand">
             <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:PizzaMAUI.ViewModels.HomeViewModel.GoToAllPizzasPage(System.Boolean)"/>.</summary>
+        </member>
+        <member name="F:PizzaMAUI.ViewModels.HomeViewModel.goToDetailsPageCommand">
+            <summary>The backing field for <see cref="P:PizzaMAUI.ViewModels.HomeViewModel.GoToDetailsPageCommand"/>.</summary>
+        </member>
+        <member name="P:PizzaMAUI.ViewModels.HomeViewModel.GoToDetailsPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:PizzaMAUI.ViewModels.HomeViewModel.GoToDetailsPage(PizzaMAUI.Models.Pizza)"/>.</summary>
         </member>
         <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Button.TextColorTo(Microsoft.Maui.Controls.Button,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
             <summary>
@@ -149,6 +169,9 @@
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Searching">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Searching" generated properties.</summary>
         </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Pizza">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Pizza" generated properties.</summary>
+        </member>
         <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
             <summary>
             A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
@@ -166,6 +189,9 @@
         </member>
         <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Searching">
             <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Searching" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Pizza">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Pizza" generated properties.</summary>
         </member>
     </members>
 </doc>

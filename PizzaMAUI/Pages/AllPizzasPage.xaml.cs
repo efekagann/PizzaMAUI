@@ -8,4 +8,24 @@ public partial class AllPizzasPage : ContentPage
         InitializeComponent();
         BindingContext = _allPizzaViewModel = allPizzaViewModel;
     }
+
+
+    protected override async void OnAppearing()
+    {
+        base.OnAppearing();
+        if (_allPizzaViewModel.FromShearch)
+        {
+            await Task.Delay(100);
+            searchBar.Focus();
+        }
+    }
+
+
+    private void searchBar_TextChanged(object sender, TextChangedEventArgs e)
+    {
+        if (!string.IsNullOrWhiteSpace(e.OldTextValue) && string.IsNullOrWhiteSpace(e.NewTextValue))
+        {
+            _allPizzaViewModel.SearchPizzasCommand.Execute(null);
+        }
+    }
 }

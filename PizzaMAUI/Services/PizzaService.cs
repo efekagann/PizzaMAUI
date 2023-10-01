@@ -28,6 +28,24 @@ public class PizzaService
             Image="pizza4img.png",
             Price=4.3
         },
+        new Pizza
+        {
+            Name="Pizza 5",
+            Image="pizza3img.png",
+            Price=8.3
+        },
+        new Pizza
+        {
+            Name="Pizza 6",
+            Image="pizza2img.png",
+            Price=4.3
+        },
+        new Pizza
+        {
+            Name="Pizza 7",
+            Image="pizza3img.png",
+            Price=12.3
+        },
     };
 
 

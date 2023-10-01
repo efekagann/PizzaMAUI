@@ -2507,6 +2507,7 @@ C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\and
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\assets\Xamarin.Kotlin.StdLib.Jdk8.dll
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\assets\Xamarin.KotlinX.Coroutines.Android.dll
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\assets\Xamarin.KotlinX.Coroutines.Core.Jvm.dll
+C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\typemaps.x86_64.ll
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\AndroidManifest.xml
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\AndroidManifest.xml
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\__environment__.txt
@@ -2515,6 +2516,7 @@ C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\and
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\bin\mono.android.jar
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\static.flag
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\buildid.txt
+C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\environment.x86_64.ll
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\src\androidx\activity\ktx\R.java
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\src\androidx\activity\R.java
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\src\androidx\annotation\experimental\R.java
@@ -2998,6 +3000,12 @@ C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\and
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\bin\packaged_resources
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\src\com\companyname\pizzamaui\R.java
+C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\compressed_assemblies.x86_64.ll
+C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\typemaps.x86_64.o
+C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\environment.x86_64.o
+C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\compressed_assemblies.x86_64.o
+C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\jni_remap.x86_64.o
+C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\app_shared_libraries\x86_64\libxamarin-app.so
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\bin\classes.dex
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\bin\classes2.dex
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\stamp\_CleanIntermediateIfNeeded.stamp
@@ -3008,11 +3016,3 @@ C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\sta
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\stamp\_GenerateJavaStubs.stamp
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\typemaps.x86_64.ll
-C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\environment.x86_64.ll
-C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\compressed_assemblies.x86_64.ll
-C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\typemaps.x86_64.o
-C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\environment.x86_64.o
-C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\compressed_assemblies.x86_64.o
-C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\android\jni_remap.x86_64.o
-C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\obj\Debug\net7.0-android\app_shared_libraries\x86_64\libxamarin-app.so

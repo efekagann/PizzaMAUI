@@ -1,34 +1,45 @@
-﻿namespace PizzaMAUI.ViewModels
+﻿namespace PizzaMAUI.ViewModels;
+
+[QueryProperty(nameof(FromShearch), nameof(FromShearch))]
+public partial class AllPizzaViewModel : ObservableObject
 {
-    [QueryProperty(nameof(FromShearch), nameof(FromShearch))]
-    public partial class AllPizzaViewModel : ObservableObject
+    private readonly PizzaService _pizzaService;
+
+    public AllPizzaViewModel(PizzaService pizzaService)
     {
-        private readonly PizzaService _pizzaService;
+        _pizzaService = pizzaService;
+        Pizzas = new(_pizzaService.GetAllPizzas());
+    }
+    public ObservableCollection<Pizza> Pizzas { get; set; }
 
-        public AllPizzaViewModel(PizzaService pizzaService)
+    [ObservableProperty]
+    private bool _fromShearch;
+
+    [ObservableProperty]
+    private bool _searching;
+
+    [RelayCommand]
+    private async Task SearchPizzas(string searchTerm)
+    {
+        Pizzas.Clear();
+        Searching = true;
+        await Task.Delay(1000);
+        foreach (var pizza in _pizzaService.SearchPizzas(searchTerm))
         {
-            _pizzaService = pizzaService;
-            Pizzas = new(_pizzaService.GetAllPizzas());
+            Pizzas.Add(pizza);
+
+            Searching = false;
         }
-        public ObservableCollection<Pizza> Pizzas { get; set; }
+    }
 
-        [ObservableProperty]
-        private bool _fromShearch;
 
-        [ObservableProperty]
-        private bool _searching;
-
-        [RelayCommand]
-        private async Task ShearchPizzas(string searchTerm)
+    [RelayCommand]
+    private async Task GoToDetailsPage(Pizza pizza)
+    {
+        var parameters = new Dictionary<string, object>
         {
-            Pizzas.Clear();
-            Searching = true;
-            foreach (var pizza in _pizzaService.SearchPizzas(searchTerm))
-            {
-                Pizzas.Add(pizza);
-
-                Searching = false;
-            }
-        }
+            [nameof(DetailsViewModel.Pizza)] = pizza
+        };
+        await Shell.Current.GoToAsync(nameof(DetailPage), animate: true, parameters);
     }
 }

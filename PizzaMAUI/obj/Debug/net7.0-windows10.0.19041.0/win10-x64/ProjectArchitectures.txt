@@ -1,1 +1,1 @@
-C:\Users\efeka\Documents\GitHub\MauiApp1\PizzaMAUI\PizzaMAUI\PizzaMAUI.csproj;x64
+C:\Users\efeka\Documents\GitHub\PizzaMAUI\PizzaMAUI\PizzaMAUI.csproj;x64
